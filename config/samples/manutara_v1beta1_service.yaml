@@ -1,0 +1,9 @@
+apiVersion: manutara.spiegela.github.io/v1beta1
+kind: Service
+metadata:
+  labels:
+    controller-tools.k8s.io: "1.0"
+  name: service-sample
+spec:
+  # Add fields here
+  foo: bar

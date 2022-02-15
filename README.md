@@ -2,4 +2,4 @@
 
 ## Description
 
-A Kubernetes application platform built on Streams
+An application platform built on Kubernetes and Streams

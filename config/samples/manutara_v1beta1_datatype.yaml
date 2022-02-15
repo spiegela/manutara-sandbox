@@ -1,0 +1,9 @@
+apiVersion: manutara.spiegela.github.io/v1beta1
+kind: DataType
+metadata:
+  labels:
+    controller-tools.k8s.io: "1.0"
+  name: datatype-sample
+spec:
+  # Add fields here
+  foo: bar
